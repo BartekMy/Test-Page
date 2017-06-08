@@ -66,4 +66,17 @@ article {
   }
 }
 
+ul {
+  list-style: none;
+  margin: 0;
+  background: blue;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: flex-end;
+}
+
 /*# sourceMappingURL=../maps/index.css.map */
